@@ -38,4 +38,7 @@ Thumbs.db
 
 # Other Files #
 
+.classpath
+.project
+
 
